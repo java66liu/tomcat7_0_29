@@ -4,4 +4,4 @@
 在Program参数窗口和VM参数窗口分别填入 
 start 
 和 
--Dcatalina.home="D:\Workspace\JEE\workspace\TOMCAT_6_0_26\src\output\build" 
+-Dcatalina.home="D:\workspace\tomcat7_0_29\output\build" 
